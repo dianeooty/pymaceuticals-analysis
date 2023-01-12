@@ -5,7 +5,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
