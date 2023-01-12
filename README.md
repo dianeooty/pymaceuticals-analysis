@@ -1,5 +1,5 @@
 # matplotlib-challenge
-> This is the Module 6 challenge for my Data Analytics and Visualization Boot Camp.  I was tasked with analyzing the dataset of mice tested with various drug treatments for tumor.
+> This is the Module 6 challenge for my Data Analytics and Visualization Boot Camp.  I was tasked with analyzing the dataset of mice with tumor that were treated with different drug regimens.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -12,7 +12,7 @@
 
 
 ## General Information
-- Using the two datasets, mouse data and study results, I analyzed the change in tumor volume over the course of the treatments with different drug regimens.
+- Using the two datasets, mouse data and study results, I analyzed the change in tumor volume over the course of the treatments.  I reviewed the results for each drug regimens and created plots for visualization.  
 
 
 ## Technologies Used
