@@ -35,5 +35,5 @@ Project is complete and no longer being worked on.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by Diane Guzman
 
