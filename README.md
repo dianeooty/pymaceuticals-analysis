@@ -1,5 +1,5 @@
-# matplotlib-challenge
-> This is the Module 6 challenge for my Data Analytics and Visualization Boot Camp.  I was tasked with analyzing the dataset of mice with tumor that were treated with different drug regimens.
+# pymaceuticals-analysis
+> Using the dataset for a new pharmaceutical company, I was tasked with analyzing the mice with tumor that were treated with different drug regimens.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -30,7 +30,7 @@ Project is complete and no longer being worked on.
 
 
 ## Acknowledgements
-- Many thanks to the instructional staff and tutor, David Chao.
+- Many thanks to the instructional staff and David Chao.
 
 
 ## Contact
