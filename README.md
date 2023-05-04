@@ -1,5 +1,5 @@
 # pymaceuticals-analysis
-> Using the dataset for a new pharmaceutical company, I was tasked with analyzing the mice with tumor that were treated with different drug regimens.
+> Using the dataset for a new pharmaceutical company, I was tasked with analyzing the results for mice with tumor that were treated with different drug regimens.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -19,6 +19,9 @@
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+
+
+## Screenshots
 
 
 ## Setup
